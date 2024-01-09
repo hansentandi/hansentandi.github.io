@@ -205,6 +205,7 @@ Congratulations! Appium is now installed and running in your Windows, but we are
 Appium Inspector is an important component to automate a test. Appium Inspector is a graphical user interface (GUI) tool that are used to inspect and interact with an element on mobile applications. You can start downloading Appium Inspector [here](https://github.com/appium/appium-inspector/releases) then select the windows version and start installing.
 
 **6.IDE (IntelliJ Community Edition)**
+
 To start an automation test, you will need an IDE (Integrated Development Environment) to create a script. For this documentation, I will use IntelliJ, you can also try to use Visual Studio Code or any other IDE that pique your interest more. You can download IntelliJ [here](https://www.jetbrains.com/idea/download/).
 
 **7.Java Client**
